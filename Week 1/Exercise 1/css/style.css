@@ -1,0 +1,38 @@
+.blockContainer{
+	position: relative; 
+	width: 100px;
+	height: 100px;
+	top: 50vh;
+	left: 50vw;
+}
+
+#div1{
+
+	position: relative;
+	width: 100%;
+	height: 45%;
+/*	start by giving it a background color, to see the divs show up. you can delete it later once you have JS array of colors working
+	background-color: #B2FFE9;*/
+	margin-bottom: 10px;
+
+}
+
+#div2{
+	position: relative;
+	float: left;
+	vertical-align: bottom;
+	width: 45%;
+	height: 45%;
+/*	background-color: #B2BFFC;*/
+
+}
+
+#div3{
+	position: relative;
+	float: right;
+	width: 45%;
+	height: 45%;
+/*	background-color: #F26969;*/ß
+
+}
+
