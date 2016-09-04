@@ -20,9 +20,11 @@ But in MacOS you need to install a package manager like [Homebrew](http://brew.s
 	brew install git
 ```
 
-On windows simply install git from here []()
+On windows simply install git from [here](https://git-scm.com/download/win)
 
 For GUI enthusiasts, the following softwares are available for both Windows & Mac:
+- [Github Desktop Client](https://desktop.github.com/)
+- [Git Karaken](www.gitkraken.com)
 
 
 ## 2. Make a GitHub Account and a repository for your Homework
