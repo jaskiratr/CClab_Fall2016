@@ -1,3 +1,6 @@
 [submodule "vivian_lee_cclab2016"]
 	path = vivian_lee_cclab2016
 	url = https://github.com/thevivs/vivian_lee_cclab2016
+[submodule "Assignments"]
+	path = Assignments
+	url = https://github.com/vishaalravikumar/Assignments
