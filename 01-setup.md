@@ -29,7 +29,7 @@ For GUI enthusiasts, the following softwares are available for both Windows & Ma
 
 ## 2. Make a GitHub Account and a repository for your Homework
 
-Create a github account if you don't have one already and create a repo for the class that you'll use to submit your homework.  Name it as follows, '[YOUR_NAME]_ss2015’. 
+Create a github account if you don't have one already and create a repo for the class that you'll use to submit your homework.  Name it as follows, '[YOUR_NAME]_cclab2016’. 
 
 When you post your homework follow this rules
 
@@ -48,23 +48,25 @@ When you post your homework follow this rules
 At the end your repository should look like something like this:
 
 ```
-ss2015/
-	[your_NID]_ss2015/
-		w01_h01_helloWorld/
-			hello_world.frag
-			README.md
-		w01_h02_uniforms/
-			uniform.frag
-			README.md
-		w02_h01_gradients/ 
-			…
-			…
-		w03_h01_blabla/ 
-			…
-		…/
-		…/
-		.gitignore
-		README.md
+	[YOUR NAME]_cclab2016/
+       w01_h01_javascript/
+           index.html
+           css/
+               style.css
+           js/
+               script.js
+           README.md
+       w01_h02_javascript/
+           app.jas
+           README.md
+       w02_h01_jquery/ 
+           …
+           …
+       w03_h01_midterm/ 
+           …
+       …/
+       …/
+       .gitignore
  ```
 
 Once this repository is on gitHub send me the url to it.
