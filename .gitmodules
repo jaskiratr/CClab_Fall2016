@@ -1,6 +1,3 @@
 [submodule "vivian_lee_cclab2016"]
 	path = vivian_lee_cclab2016
 	url = https://github.com/thevivs/vivian_lee_cclab2016
-[submodule "CClab_Fall2016"]
-	path = CClab_Fall2016
-	url = https://github.com/tingtinger108/CClab_Fall2016
