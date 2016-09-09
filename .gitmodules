@@ -22,3 +22,6 @@
 [submodule "NanHuang_cclab2016"]
 	path = NanHuang_cclab2016
 	url = https://github.com/NanHuang525/NanHuang_cclab2016
+[submodule "Remina_Greenfield_cclab2016"]
+	path = Remina_Greenfield_cclab2016
+	url = https://github.com/reminagreenfield/Remina_Greenfield_cclab2016
