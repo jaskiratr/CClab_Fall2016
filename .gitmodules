@@ -25,3 +25,6 @@
 [submodule "frannieXiao_CClab2016"]
 	path = frannieXiao_CClab2016
 	url = https://github.com/frannieyy/frannieXiao_CClab2016
+[submodule "tao_wei_cclab2016"]
+	path = tao_wei_cclab2016
+	url = https://github.com/monkbysea/tao_wei_cclab2016/
