@@ -19,9 +19,6 @@
 [submodule "Vishaal_cclab2016"]
 	path = Vishaal_cclab2016
 	url = https://github.com/vishaalravikumar/Vishaal_cclab2016
-[submodule "Ziqiang-list"]
-	path = Ziqiang-list
-	url = https://github.com/Ziqiang1226/Ziqiang-list
 [submodule "frannieXiao_CClab2016"]
 	path = frannieXiao_CClab2016
 	url = https://github.com/frannieyy/frannieXiao_CClab2016
