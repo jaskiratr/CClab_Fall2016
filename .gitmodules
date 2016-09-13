@@ -22,9 +22,6 @@
 [submodule "Remina_Greenfield_cclab2016"]
 	path = Remina_Greenfield_cclab2016
 	url = https://github.com/reminagreenfield/Remina_Greenfield_cclab2016
-[submodule "tao_wei_cclab2016"]
-	path = tao_wei_cclab2016
-	url = https://github.com/monkbysea/tao_wei_cclab2016
 [submodule "Vishaal_cclab2016"]
 	path = Vishaal_cclab2016
 	url = https://github.com/vishaalravikumar/Vishaal_cclab2016
