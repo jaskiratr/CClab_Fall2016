@@ -28,6 +28,3 @@
 [submodule "Ziqiang-list"]
 	path = Ziqiang-list
 	url = https://github.com/Ziqiang1226/Ziqiang-list
-[submodule "tao_wei_cclab2016"]
-	path = tao_wei_cclab2016
-	url = https://github.com/monkbysea/tao_wei_cclab2016/
