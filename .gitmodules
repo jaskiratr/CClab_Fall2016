@@ -10,9 +10,6 @@
 [submodule "Aim_CClab2016"]
 	path = Aim_CClab2016
 	url = https://github.com/Pornsimad11/Aim_CClab2016
-[submodule "Hsuan_Lin_cclab2016"]
-	path = Hsuan_Lin_cclab2016
-	url = https://github.com/linh5942/Hsuan_Lin_cclab2016
 [submodule "NanHuang_cclab2016"]
 	path = NanHuang_cclab2016
 	url = https://github.com/NanHuang525/NanHuang_cclab2016
