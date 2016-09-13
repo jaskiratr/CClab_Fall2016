@@ -1,9 +1,6 @@
 [submodule "vivian_lee_cclab2016"]
 	path = vivian_lee_cclab2016
 	url = https://github.com/thevivs/vivian_lee_cclab2016
-[submodule "frannieXiao_CClab2016"]
-	path = frannieXiao_CClab2016
-	url = https://github.com/frannieyy/frannieXiao_CClab2016
 [submodule "krisli_ccLab2016"]
 	path = krisli_ccLab2016
 	url = https://github.com/krisliqc/krisli_ccLab2016
