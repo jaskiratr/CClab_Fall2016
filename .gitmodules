@@ -25,3 +25,6 @@
 [submodule "ZiqiangCClab"]
 	path = ZiqiangCClab
 	url = https://github.com/Ziqiang1226/ZiqiangCClab
+[submodule "vivian_lee_cclab2016"]
+	path = vivian_lee_cclab2016
+	url = https://github.com/thevivs/vivian_lee_cclab2016
