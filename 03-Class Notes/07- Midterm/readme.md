@@ -2,7 +2,6 @@
 
 ## Presentations on 25th October 2016
 ### Time limit: 7 min sharp !
----
 
 #### Design and develop a project that addresses approaches/highlights/solves a problem/issue/concern of a user/environment/community. This really give's you a lot of freedom to shape your ideas into defined designs.
 
