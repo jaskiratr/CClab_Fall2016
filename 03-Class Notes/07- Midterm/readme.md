@@ -1,15 +1,16 @@
 # Midterm Brief
 
-## Due Date : 25th October 2016
-
+## Presentations on 25th October 2016
+### Time limit: 7 min sharp !
 ---
 
 #### Design and develop a project that addresses approaches/highlights/solves a problem/issue/concern of a user/environment/community. This really give's you a lot of freedom to shape your ideas into defined designs.
 
 When develop your prototype, answer these key questions:
-1. Who is your intended user? Define the environment, activities, interactions, objects  and the users
-2. What pain-point or problem exists? Define your problem statement
-3. What is your idea and how does it address that issue? Define your design and what is the intent behind it. How is your proposal better than what is out there... (Do you research)
+
+- Who is your intended user? Define the environment, activities, interactions, objects  and the users
+- What pain-point or problem exists? Define your problem statement
+-  What is your idea and how does it address that issue? Define your design and what is the intent behind it. How is your proposal better than what is out there... (Do you research)
 
  **Note:** Feel free to combine this project with another class. If you do so, make sure you disclose that. In such cases, you are usually expected to put in twice the effort than otherwise you would have.
 
