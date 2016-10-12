@@ -25,3 +25,6 @@
 [submodule "vivian_lee_cclab2016"]
 	path = vivian_lee_cclab2016
 	url = https://github.com/thevivs/vivian_lee_cclab2016
+[submodule "BrandonPalmer_CClab2016"]
+	path = BrandonPalmer_CClab2016
+	url = https://github.com/brandonpalmer111b/BrandonPalmer_CClab2016
