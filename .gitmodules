@@ -1,9 +1,6 @@
 [submodule "krisli_ccLab2016"]
 	path = krisli_ccLab2016
 	url = https://github.com/krisliqc/krisli_ccLab2016
-[submodule "Brandon_Palmer_CCLab2016"]
-	path = Brandon_Palmer_CCLab2016
-	url = https://github.com/brandonpalmer111b/Brandon_Palmer_CCLab2016
 [submodule "Aim_CClab2016"]
 	path = Aim_CClab2016
 	url = https://github.com/Pornsimad11/Aim_CClab2016
