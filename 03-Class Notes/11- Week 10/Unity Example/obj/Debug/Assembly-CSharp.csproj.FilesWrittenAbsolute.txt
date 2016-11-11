@@ -1,0 +1,17 @@
+/Users/pfeng/Dropbox/CC Lab 2016/week10_Unity/ClassExample/Temp/bin/Debug/UnityEngine.dll
+/Users/pfeng/Dropbox/CC Lab 2016/week10_Unity/ClassExample/Temp/bin/Debug/UnityEditor.dll
+/Users/pfeng/Dropbox/CC Lab 2016/week10_Unity/ClassExample/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/pfeng/Dropbox/CC Lab 2016/week10_Unity/ClassExample/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/pfeng/Dropbox/CC Lab 2016/week10_Unity/ClassExample/Temp/bin/Debug/Mono.Cecil.dll
+/Users/pfeng/Dropbox/CC Lab 2016/week10_Unity/ClassExample/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/pfeng/Dropbox/CC Lab 2016/week10_Unity/ClassExample/Temp/bin/Debug/Unity.DataContract.dll
+/Users/pfeng/Dropbox/CC Lab 2016/week10_Unity/ClassExample/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/pfeng/Dropbox/CC Lab 2016/week10_Unity/ClassExample/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/pfeng/Dropbox/CC Lab 2016/week10_Unity/ClassExample/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/pfeng/Dropbox/CC Lab 2016/week10_Unity/ClassExample/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/pfeng/Dropbox/CC Lab 2016/week10_Unity/ClassExample/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/pfeng/Dropbox/CC Lab 2016/week10_Unity/ClassExample/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/pfeng/Dropbox/CC Lab 2016/week10_Unity/ClassExample/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/pfeng/Dropbox/CC Lab 2016/week10_Unity/ClassExample/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/pfeng/Dropbox/CC Lab 2016/week10_Unity/ClassExample/obj/Debug/Assembly-CSharp.dll
+/Users/pfeng/Dropbox/CC Lab 2016/week10_Unity/ClassExample/obj/Debug/Assembly-CSharp.dll.mdb
